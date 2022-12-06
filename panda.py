@@ -9,4 +9,4 @@ df_dict['동'] = ['대학동', '창신동', '면목동', '구파발동']
 
 df = pd.DataFrame(df_dict)
 
-df
+print(df)
